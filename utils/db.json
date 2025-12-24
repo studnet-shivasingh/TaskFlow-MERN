@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1766348290121,
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "password": "$2b$10$n89.cVIRJjIlJOBsVQbrl.gAm17Pa/DvBA6/uxU.BNNDZY0jUBH6O"
+    },
+    {
+      "id": 1766351657605,
+      "name": "shiva",
+      "email": "shivasingh70079@gmail.com",
+      "password": "$2b$10$itknYED9PKvT6Z1vrSwBCeIECKkEbVAZD/5u6u/tpikV20d0aR.Tu"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1766350022297,
+      "userId": 1766348290121,
+      "title": "JWT finally working",
+      "description": "Understood auth flow clearly",
+      "completed": false,
+      "createdAt": "2025-12-21T20:47:02.297Z"
+    },
+    {
+      "id": 1766353320254,
+      "userId": 1766351657605,
+      "title": "wer",
+      "description": "weee",
+      "completed": false,
+      "createdAt": "2025-12-21T21:42:00.255Z"
+    },
+    {
+      "id": 1766433348336,
+      "userId": 1766351657605,
+      "title": "hit gym",
+      "description": "daily i have to go to the gym at 4 o clock",
+      "completed": false,
+      "createdAt": "2025-12-22T19:55:48.336Z"
+    },
+    {
+      "id": 1766433373266,
+      "userId": 1766351657605,
+      "title": "rrrr",
+      "description": "arfaref",
+      "completed": false,
+      "createdAt": "2025-12-22T19:56:13.266Z"
+    },
+    {
+      "id": 1766472634486,
+      "userId": 1766351657605,
+      "title": "gym",
+      "description": "bicep tricep and abs",
+      "completed": false,
+      "createdAt": "2025-12-23T06:50:34.486Z"
+    },
+    {
+      "id": 1766502154494,
+      "userId": 1766351657605,
+      "title": "study",
+      "description": "DSA",
+      "completed": false,
+      "createdAt": "2025-12-23T15:02:34.494Z"
+    },
+    {
+      "id": 1766569998776,
+      "userId": 1766351657605,
+      "title": "DSA",
+      "description": "GRAPHS TWO QUESTION",
+      "completed": false,
+      "createdAt": "2025-12-24T09:53:18.776Z"
+    },
+    {
+      "id": 1766571794454,
+      "userId": 1766351657605,
+      "title": "project",
+      "description": "task flow",
+      "completed": false,
+      "createdAt": "2025-12-24T10:23:14.454Z"
+    },
+    {
+      "id": 1766578002826,
+      "userId": 1766351657605,
+      "title": "gym",
+      "description": "bicep and tricpe and anything which yuo want to do ",
+      "completed": false,
+      "createdAt": "2025-12-24T12:06:42.826Z"
+    },
+    {
+      "id": 1766578254403,
+      "userId": 1766351657605,
+      "title": "gym",
+      "description": "bicep",
+      "completed": false,
+      "createdAt": "2025-12-24T12:10:54.403Z"
+    }
+  ]
+}
